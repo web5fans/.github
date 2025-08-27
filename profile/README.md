@@ -16,6 +16,7 @@ A friendly community for Web5 enthusiasts to discuss, share, and learn about the
 | Repo | Description |
 | --- | --- |
 | [atproto](https://github.com/web5fans/atproto) | atproto |
+| [plc](https://github.com/did-method-plc/did-method-plc) | did server |
 | [post_cache](https://github.com/web5fans/post_cache) | app view |
 | [web5_deploy](https://github.com/web5fans/web5_deploy) | atproto deployment |
 | [social-app](https://github.com/web5fans/social-app) | xjd Front-end |
