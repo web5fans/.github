@@ -6,7 +6,7 @@ A friendly community for Web5 enthusiasts to discuss, share, and learn about the
 
 | Repo | Description |
 | --- | --- |
-| [rsky](https://github.com/web5fans/rsky) | A Rust SDK for building Web5 applications, providing tools and libraries to interact with decentralized identities and data storage. |
+| [web5-rsky](https://github.com/web5fans/web5-rsky) | A Rust SDK for building Web5 applications, providing tools and libraries to interact with decentralized identities and data storage. |
 | [bbs](https://github.com/web5fans/bbs) | app view |
 | [bbs-fe](https://github.com/web5fans/bbs-fe) | app Front-end |
 | [bbs_deploy](https://github.com/web5fans/bbs_deploy) | deployment |
