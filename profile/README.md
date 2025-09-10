@@ -10,6 +10,7 @@ A friendly community for Web5 enthusiasts to discuss, share, and learn about the
 | [bbs](https://github.com/web5fans/bbs) | app view |
 | [bbs-fe](https://github.com/web5fans/bbs-fe) | app Front-end |
 | [bbs_deploy](https://github.com/web5fans/bbs_deploy) | deployment |
+| [web5-indexer](https://github.com/web5fans/web5-indexer) | It's a indexer for did:web5. The indexer would follow every did transaction on [CKB](https://www.nervos.org/ckbpage) blockchain. And indexing every did record through path `<server url>\{:did}`. |
 
 [![xjdao.xyz](https://img.shields.io/badge/xjdao.xyz-1fb931?style=flat-square&logo=discourse&logoColor=white)](https://xjdao.xyz/)
 
