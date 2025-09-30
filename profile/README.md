@@ -1,5 +1,11 @@
 # Web5 fans
 
+Web5 is a forward-looking vision that seeks to create an extra-decentralized, privacy-first internet—one where users control their identity and own their data by emphasizing on-chain verification and off-chain computation.
+
+| Repo | Description |
+| --- | --- |
+| [web5-wips](https://github.com/web5fans/web5-wips) | Web5 Improvement Proposals (WIPs) that describe standards and protocols for the web5 ecosystem. |
+
 [![bbs.fans](https://img.shields.io/badge/bbs.fans-ffffff?style=flat-square&logo=discourse&logoColor=grey)](https://www.bbs.fans/)
 
 A friendly community for Web5 enthusiasts to discuss, share, and learn about the latest developments in decentralized web technologies.
