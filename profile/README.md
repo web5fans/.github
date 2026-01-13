@@ -21,16 +21,16 @@ Web5 is a forward-looking vision that seeks to create an extra-decentralized, pr
 | Repo | Description |
 | --- | --- |
 | [did ckb contract](https://github.com/web5fans/did-ckb) | CKB contract code for did:ckb. |
-| [did ckb indexer](https://github.com/web5fans/web5-indexer) | It's a indexer for did:web5. The indexer would follow every did transaction on [CKB](https://www.nervos.org/ckbpage) blockchain. And indexing every did record through path `<server url>\{:did}`. |
+| [did ckb indexer](https://github.com/web5fans/web5-indexer) | It's a indexer for did:ckb. The indexer would follow every did transaction on [CKB](https://www.nervos.org/ckbpage) blockchain. And indexing every did record through path `<server url>\{:did}`. |
 | [did ckb cache](https://github.com/web5fans/web5-did-cache) | Cache service for did:ckb, create did:ckb with HTTP API. |
-| [did ckb toolbox](https://github.com/web5fans/web5fans.github.io) | An static website to mannager(transfer/update/destroy) did:ckb. |
+| [did ckb toolbox](https://github.com/web5fans/web5fans.github.io) | An static [website](web5fans.github.io) to mannager(transfer/update/destroy) did:ckb. |
 
 ### Components
 
 | Repo | Description |
 | --- | --- |
-| [Micro Pay](https://github.com/web5fans/micro-pay) | An service can transfer little ckb to other user. |
-| [Dao Vote Contract](https://github.com/web5fans/ckb-dao-vote) | An vote contract on ckb. |
+| [Micro Pay](https://github.com/web5fans/micro-pay) | Service can transfer little ckb to other user. |
+| [Dao Vote Contract](https://github.com/web5fans/ckb-dao-vote) | Vote contract on ckb. |
 | [Example code](https://github.com/web5fans/web5-components) | Example code for address bind and vote. |
 
 ## Applications
