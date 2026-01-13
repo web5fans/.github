@@ -6,17 +6,44 @@ Web5 is a forward-looking vision that seeks to create an extra-decentralized, pr
 | --- | --- |
 | [web5-wips](https://github.com/web5fans/web5-wips) | Web5 Improvement Proposals (WIPs) that describe standards and protocols for the web5 ecosystem. |
 
-[![bbs.fans](https://img.shields.io/badge/bbs.fans-ffffff?style=flat-square&logo=discourse&logoColor=grey)](https://www.bbs.fans/)
+## Infrastructure
+
+### ATProto related
+
+| Repo | Description |
+| --- | --- |
+| [PDS](https://github.com/web5fans/rsky) | A Rust SDK for building Web5 applications, providing tools and libraries to interact with decentralized identities and data storage. |
+| [Relayer](https://github.com/web5fans/indigo) | Go source code for Bluesky's atproto relayer service. |
+| [Web5 SDK](https://github.com/web5fans/web5-api) | Common code for Web5 App. |
+
+### did:ckb related
+
+| Repo | Description |
+| --- | --- |
+| [did ckb contract](https://github.com/web5fans/did-ckb) | CKB contract code for did:ckb. |
+| [did ckb indexer](https://github.com/web5fans/web5-indexer) | It's a indexer for did:web5. The indexer would follow every did transaction on [CKB](https://www.nervos.org/ckbpage) blockchain. And indexing every did record through path `<server url>\{:did}`. |
+| [did ckb cache](https://github.com/web5fans/web5-did-cache) | Cache service for did:ckb, create did:ckb with HTTP API. |
+| [did ckb toolbox](https://github.com/web5fans/web5fans.github.io) | An static website to mannager(transfer/update/destroy) did:ckb. |
+
+### Components
+
+| Repo | Description |
+| --- | --- |
+| [Micro Pay](https://github.com/web5fans/micro-pay) | An service can transfer little ckb to other user. |
+| [Dao Vote Contract](https://github.com/web5fans/ckb-dao-vote) | An vote contract on ckb. |
+| [Example code](https://github.com/web5fans/web5-components) | Example code for address bind and vote. |
+
+## Applications
+
+[![bbs.fans](https://img.shields.io/badge/bbs.fans-1fb931?style=flat-square&logo=discourse&logoColor=white)](https://www.bbs.fans/)
 
 A friendly community for Web5 enthusiasts to discuss, share, and learn about the latest developments in decentralized web technologies.
 
 | Repo | Description |
 | --- | --- |
-| [rsky](https://github.com/web5fans/rsky) | A Rust SDK for building Web5 applications, providing tools and libraries to interact with decentralized identities and data storage. |
 | [bbs](https://github.com/web5fans/bbs) | app view |
 | [bbs-fe](https://github.com/web5fans/bbs-fe) | app Front-end |
 | [bbs_deploy](https://github.com/web5fans/bbs_deploy) | deployment |
-| [web5-indexer](https://github.com/web5fans/web5-indexer) | It's a indexer for did:web5. The indexer would follow every did transaction on [CKB](https://www.nervos.org/ckbpage) blockchain. And indexing every did record through path `<server url>\{:did}`. |
 
 [![xjdao.xyz](https://img.shields.io/badge/xjdao.xyz-1fb931?style=flat-square&logo=discourse&logoColor=white)](https://xjdao.xyz/)
 
