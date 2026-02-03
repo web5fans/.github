@@ -33,6 +33,12 @@ Web5 is a forward-looking vision that seeks to create an extra-decentralized, pr
 | [Dao Vote Contract](https://github.com/web5fans/ckb-dao-vote) | Vote contract on ckb. |
 | [Example code](https://github.com/web5fans/web5-components) | Example code for address bind and vote. |
 
+### Framework
+
+| Repo | Description |
+| --- | --- |
+| [Modules](https://github.com/web5fans/modules) | This project provides Federated Modules and a Demo to help developers build Web5 Applications easily. |
+
 ## Applications
 
 [![bbs.fans](https://img.shields.io/badge/bbs.fans-1fb931?style=flat-square&logo=discourse&logoColor=white)](https://www.bbs.fans/)
