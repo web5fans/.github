@@ -23,7 +23,6 @@ Web5 is a forward-looking vision that seeks to create an extra-decentralized, pr
 | [did ckb contract](https://github.com/web5fans/did-ckb) | CKB contract code for did:ckb. |
 | [did ckb indexer](https://github.com/web5fans/web5-indexer) | It's a indexer for did:ckb. The indexer would follow every did transaction on [CKB](https://www.nervos.org/ckbpage) blockchain. And indexing every did record through path `<server url>\{:did}`. |
 | [did ckb cache](https://github.com/web5fans/web5-did-cache) | Cache service for did:ckb, create did:ckb with HTTP API. |
-| [did ckb toolbox](https://github.com/web5fans/web5fans.github.io) | An static [website](web5fans.github.io) to mannager(transfer/update/destroy) did:ckb. |
 
 ### Components
 
@@ -33,13 +32,22 @@ Web5 is a forward-looking vision that seeks to create an extra-decentralized, pr
 | [Dao Vote Contract](https://github.com/web5fans/ckb-dao-vote) | Vote contract on ckb. |
 | [Example code](https://github.com/web5fans/web5-components) | Example code for address bind and vote. |
 
-### Framework
+### Framework and Tools
 
 | Repo | Description |
 | --- | --- |
 | [Modules](https://github.com/web5fans/modules) | This project provides Federated Modules and a Demo to help developers build Web5 Applications easily. |
+| [Keystore](https://keystore.web5.fans) | A simple web wallet to manager sign key. |
+| [Console](https://console.web5.fans) | A full Web5 demo app that composes all basic modules of web5. |
 
 ## Applications
+
+[![DAO World](https://img.shields.io/badge/bbs.fans-1fb931?style=flat-square&logo=discourse&logoColor=white)](https://me.web5.fans/)
+
+Web5 User Portal - A user-friendly entry point to the Web5 ecosystem.
+| Repo | Description |
+| --- | --- |
+| [daoworld](https://github.com/web5fans/modules/tree/main/apps/daoworld) | dao world |
 
 [![bbs.fans](https://img.shields.io/badge/bbs.fans-1fb931?style=flat-square&logo=discourse&logoColor=white)](https://www.bbs.fans/)
 
