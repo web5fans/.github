@@ -42,12 +42,12 @@ Web5 is a forward-looking vision that seeks to create an extra-decentralized, pr
 
 ## Applications
 
-[![DAOWorld](https://img.shields.io/badge/DaoWorld-1fb931?style=flat-square&logo=discourse&logoColor=white)](https://me.web5.fans/)
+[![Portal](https://img.shields.io/badge/Portal-1fb931?style=flat-square&logo=discourse&logoColor=white)](https://me.web5.fans/)
 
 Web5 User Portal - A user-friendly entry point to the Web5 ecosystem.
 | Repo | Description |
 | --- | --- |
-| [daoworld](https://github.com/web5fans/modules/tree/main/apps/daoworld) | dao world |
+| [portal](https://github.com/web5fans/modules/tree/main/apps/portal) | Web5 User Portal |
 
 [![bbs.fans](https://img.shields.io/badge/bbs.fans-1fb931?style=flat-square&logo=discourse&logoColor=white)](https://www.bbs.fans/)
 
